@@ -5,6 +5,9 @@ To run the code:
 - pip install plotly
 - pip install "ipywidgets==7.5"
 
+Medium article on the tutorial: 
+https://medium.com/@shubhamperiwal98/dynamically-update-plot-with-plotly-and-ipywidgets-7885036e300b
+
 ## Visualisation 1: <br/>
 Visualisation of all the cars with mileage on the X-axis and Price on the y-axis
 
