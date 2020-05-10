@@ -5,4 +5,14 @@ To run the code:
 - pip install plotly
 - pip install "ipywidgets==7.5"
 
+Visualisation 1:
+Visualisation of all the cars with mileage on the X-axis and Price on the y-axis
+
+
+
+Visualisation 2:
+Visualisation of all the cars with the following filters:
+Brand - BMW
+Price - 15000 to 50000
+
 
