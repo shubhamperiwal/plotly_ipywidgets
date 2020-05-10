@@ -7,12 +7,13 @@ To run the code:
 
 Visualisation 1:
 Visualisation of all the cars with mileage on the X-axis and Price on the y-axis
-
+![Visualisation - unfiltered](https://github.com/shubhamperiwal/plotly_ipywidgets/blob/master/viz_unfiltered.png)
 
 
 Visualisation 2:
 Visualisation of all the cars with the following filters:
 Brand - BMW
 Price - 15000 to 50000
+![Visualisation - filtered](https://github.com/shubhamperiwal/plotly_ipywidgets/blob/master/viz_filtered.png)
 
 
